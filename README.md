@@ -1,1 +1,1 @@
-# randomo-store
+# random-store
