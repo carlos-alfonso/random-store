@@ -1,0 +1,57 @@
+body {
+	background-color: gray;
+}
+
+h1 {
+	color: blue;
+	font-family: system-ui;
+}
+
+p {
+	color: red;
+	font-family: system-ui;
+	border: 2px solid black;
+	padding: 10px;
+	margin: 20px;
+}
+
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+
+div{
+	background-image: url('w3schools.jpg');
+	/*background-repeat: b;*/
+	background-size: cover;
+}
+
+table, th, td {
+	text-align: center;
+	border: 1px solid black;
+	border-style: solid;
+	/*border-collapse: collapse;*/
+	padding: 10px;
+	border-radius: 25px;
+	border-color: black;
+}
+
+th, td {
+	background-color: whitesmoke;
+}
+
+#one {
+	background-color: hotpink;
+}
+
+#two {
+	background-color: blueviolet;
+}
