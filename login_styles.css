@@ -1,0 +1,15 @@
+#login-container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    border: 1px solid black;
+    height: 300px;
+    width: 400px;
+    text-align: center;
+}
+
+div {
+    resize: both;
+}
